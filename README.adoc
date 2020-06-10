@@ -1,0 +1,7 @@
+= Hello World!
+
+This particular README is intended to help me learn Asciidoc.
+
+This repository is meant to be a test bed for increasingly silly ways to print "Hello World!". It is meant only to document my programming journey. As I learn new ways to code, I will add new ways to output those two simple words.
+
+I have never actually written a README before. I doubt there will be any meaningful ways to interact with this project so this README will probably just remain a statement of purpose.
